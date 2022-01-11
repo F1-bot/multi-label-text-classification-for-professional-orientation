@@ -5,7 +5,7 @@
 
 ![image](https://user-images.githubusercontent.com/55029455/148900655-576ca00d-a286-4c10-aa8d-c381c003812b.png)
 
-Ви маєте можливість переглянути лістинг коду та випробувати програму самостійно через Google Colab (https://colab.research.google.com/drive/1KiUA-bZLqGt-frEk-G4-xlT-YCAycSXu?usp=sharing7).
+Ви маєте можливість переглянути лістинг коду та випробувати програму самостійно через Google Colab (https://colab.research.google.com/drive/1KiUA-bZLqGt-frEk-G4-xlT-YCAycSXu?usp=sharing7). Задля збереження конфеденційності респондентів, оригінальний Data-set не надається, проте Ви маєте можливість самостійно відредагувати .csv файл, якщо бажаєте дослідити питання більш глибоко.
 
 ![image](https://user-images.githubusercontent.com/55029455/148903142-f52ee094-68aa-463d-9d74-fa6d9e9cf5bf.png)
 Результат виконання програми
