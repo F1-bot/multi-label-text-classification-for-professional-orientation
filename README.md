@@ -5,7 +5,7 @@
 
 ![image](https://user-images.githubusercontent.com/55029455/148900655-576ca00d-a286-4c10-aa8d-c381c003812b.png)
 
-Ви маєте можливість випробувати програму самостійно через Google Colab.
+Ви маєте можливість переглянути лістинг коду та випробувати програму самостійно через Google Colab.
 
-![image](https://user-images.githubusercontent.com/55029455/148902908-8d9126c3-2594-4cd3-99aa-f75db42cebee.png)
-
+![image](https://user-images.githubusercontent.com/55029455/148903142-f52ee094-68aa-463d-9d74-fa6d9e9cf5bf.png)
+Результат виконання програми
