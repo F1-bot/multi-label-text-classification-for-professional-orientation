@@ -1,12 +1,33 @@
-# multi-label-text-classification-for-professional-orientation
-Реалізована задача багатокласної класифікації, що реалізує визначення комплексу вхідних параметрів, які здобуваються в межах тестових методик: «Опитувальник Майєрс-Бріггс» (MBTI), «Методика професійного самовизначення Дж. Голланда» (D), «Опитувальник професійної спрямованості Л. Йовайши» (в модифікації Г. Резапкіної) (JMR) та «Прогресивні матриці Равена» (RPM).
-Та які, за концепцією дослідника маються можливість загально оцінити професійну орієнтацію молоді для визначення одного з двадцяти трьох професійних напрямів, що визначаються, як вихідні дані проекту з певною вірогідністю.
-Або загальною сумою в 1 бал, при методиці використання Softmax або, при методиці використання Tanh для вираження результатів кожного професійного напряму в діапазоні до 1.
+![0_bjcks4_bdpyciybp Emsc62](https://user-images.githubusercontent.com/55029455/154784480-f7aed697-4f21-49f2-a63c-7d07c902c53c.png) ![0_bjcks4_bdpyciybp Emsc61](https://user-images.githubusercontent.com/55029455/154784287-eea53741-5d37-4918-9d4f-cb84bab9cd8f.png)
 
-![image](https://user-images.githubusercontent.com/55029455/148900655-576ca00d-a286-4c10-aa8d-c381c003812b.png)
+# PROJECT NAME 👋
+Multilabel text classification for professional orientation (F1-HELPRER v.2 | upd 19.01.2022)
 
-Ви маєте можливість переглянути лістинг коду та випробувати програму самостійно через Google Colab (https://colab.research.google.com/drive/1KiUA-bZLqGt-frEk-G4-xlT-YCAycSXu?usp=sharing7).
-Задля збереження конфеденційності респондентів, оригінальний Data-set не надається, проте Ви маєте можливість самостійно відредагувати .csv файл, якщо бажаєте дослідити питання більш глибоко.
+# BRIEF DESCRIPTION 📄
+This repository presents a software solution that implements multi-label classification of professional areas  of a Fully Connected Feed-Forward Neural Network (FNN).
 
-![image](https://user-images.githubusercontent.com/55029455/148903142-f52ee094-68aa-463d-9d74-fa6d9e9cf5bf.png)
-Результат виконання програми
+# CITATION 🔌
+> Coming soon
+
+# INSTRUCTIONS TO BUILD AND TEST THE PROJECT 💡
+- [Google Colab](https://colab.research.google.com/github/F1-bot/multi-label-text-classification-for-professional-orientation/blob/main/F1_bot_v2_multi_label_text_classification_for_professional_orientation.ipynb) - Go to Software solution
+- Connect the EOM
+- Click "Run Code" in the code sections
+- If desired, develop your CSV file
+- Evaluate the process of multi-label classification of professional areas
+- If desired, save the trained model (H5 file) and the results of professional orientation (CSV file)
+
+> Please note that the result of matching the professional direction ranges from 0 to 1.
+
+# SET OF TEST TECHNIQUES 📖
+- Myers-Briggs Type Indicator
+- J. Holland method of professional self-determination
+- Questionnaire of professional inclinations by L. Yovaishi (modified by G. V. Rezapkina)
+- Raven's Progressive Matrices
+
+# AN EXAMPLE OF THE RESULTS OF USING THE SOFTWARE SOLUTION 🔥
+![image](https://user-images.githubusercontent.com/55029455/154786025-c3cef465-d67c-4dbb-ab0c-d39f768fb0eb.png)
+![image](https://user-images.githubusercontent.com/55029455/154786030-41227803-1b3d-43ec-b51e-af9ece559c5a.png)
+![image](https://user-images.githubusercontent.com/55029455/154786105-0c69a6af-7e23-4b0d-ab3a-136075d5e64d.png)
+
+> To maintain respondent confidentiality, the original Dataset is not provided, but you can edit the .csv file yourself if you wish to explore the issue more deeply.
