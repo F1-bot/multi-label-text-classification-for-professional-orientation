@@ -1,7 +1,7 @@
 ![0_bjcks4_bdpyciybp Emsc62](https://user-images.githubusercontent.com/55029455/154784480-f7aed697-4f21-49f2-a63c-7d07c902c53c.png) ![0_bjcks4_bdpyciybp Emsc61](https://user-images.githubusercontent.com/55029455/154784287-eea53741-5d37-4918-9d4f-cb84bab9cd8f.png)
 
 # PROJECT NAME 👋
-Multilabel text classification for professional orientation (F1-HELPRER v.2 | upd 19.01.2022)
+Multilabel text classification for professional orientation (F1-BOT v.2 | upd 19.01.2022)
 
 # BRIEF DESCRIPTION 📄
 This repository presents a software solution that implements multi-label classification of professional areas  of a Fully Connected Feed-Forward Neural Network (FNN).
