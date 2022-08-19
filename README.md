@@ -7,7 +7,7 @@ Multilabel text classification for professional orientation (F1-BOT v.2 | upd 19
 This repository presents a software solution that implements multi-label classification of professional areas  of a Fully Connected Feed-Forward Neural Network (FNN).
 
 # CITATION 🔌
-> Coming soon
+> Serhii Dolhopolov, Tetyana Honcharenko, Anastasiia Dolhopolova, Olena Riabchun, Maksym Delembovskyi. Use of Artificial Intelligence Systems for Determining the Career Guidance of Future University Student. 2022 International Conference on Smart Information Systems and Technologies. SIST 2022. Nur-Sultan Kazakhstan 28-30 April 2022 https://sist.astanait.edu.kz/wp-content/uploads/2022/04/Conference-program_updated.pdf (SCOPUS)
 
 # INSTRUCTIONS TO BUILD AND TEST THE PROJECT 💡
 - [Google Colab](https://colab.research.google.com/github/F1-bot/multi-label-text-classification-for-professional-orientation/blob/main/F1_bot_v2_multi_label_text_classification_for_professional_orientation.ipynb) - Go to Software solution
